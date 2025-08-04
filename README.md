@@ -1,12 +1,38 @@
-# React + Vite
+# 🌗 Multi-Theme Switcher React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React app that allows users to switch between **light**, **dark**, and **system themes** using Context API and CSS variables.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+🔗 [https://multi-theme-demo.vercel.app](https://multi-theme-demo.vercel.app)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧰 Tech Stack
+
+- React + Vite
+- Context API
+- Tailwind CSS 
+- LocalStorage for persisting theme
+- Netlify for deployment
+
+---
+
+## 📁 Folder Structure
+<img width="373" height="763" alt="Screenshot 2025-08-04 at 11 51 46 AM" src="https://github.com/user-attachments/assets/1a78d75e-354e-4f33-bc2b-28cc55ce900f" />
+<img width="1408" height="770" alt="Screenshot 2025-08-04 at 11 52 17 AM" src="https://github.com/user-attachments/assets/067502cd-1631-47f2-9c0a-b6fccaa9a720" />
+<img width="1419" height="768" alt="Screenshot 2025-08-04 at 11 52 26 AM" src="https://github.com/user-attachments/assets/c42e0304-9338-4b3e-96b1-2a625cca5cd5" />
+<img width="1415" height="770" alt="Screenshot 2025-08-04 at 11 52 33 AM" src="https://github.com/user-attachments/assets/84bdee2d-f644-4737-9b4c-eba1c8409296" />
+
+
+---
+
+## 🛠️ Setup Instructions
+
+### 1. Clone the repo
+https://github.com/webKanchan1234/multi-theme.git
+cd multi-theme-switcher
+npm install
+npm run dev
