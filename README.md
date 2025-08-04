@@ -6,7 +6,7 @@ A simple React app that allows users to switch between **light**, **dark**, and 
 
 ## 🚀 Live Demo
 
-🔗 [https://multi-theme-demo.vercel.app](https://multi-theme-demo.vercel.app)
+🔗 https://multi-theme-switcher-hipster1.netlify.app/
 
 ---
 
